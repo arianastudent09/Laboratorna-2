@@ -1,0 +1,7 @@
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 2\task7\bin\Debug\task7.exe.config
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 2\task7\bin\Debug\task7.exe
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 2\task7\bin\Debug\task7.pdb
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 2\task7\obj\Debug\task7.csprojAssemblyReference.cache
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 2\task7\obj\Debug\task7.csproj.CoreCompileInputs.cache
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 2\task7\obj\Debug\task7.exe
+C:\Users\Алло\Documents\visual studio projects\Laboratorna 2\task7\obj\Debug\task7.pdb
